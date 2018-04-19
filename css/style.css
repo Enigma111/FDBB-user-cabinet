@@ -72,16 +72,12 @@ button:focus,
     color: #fff;
 }
 body {
-    background-color: #ccc; 
-    background-image: url(/img/bg.png);
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    background-position: center;
-    /* background-repeat: no-repeat; */
-    /* background-size: cover; */
-    /* background-attachment: fixed;
-    min-height: 93vh;*/
+    background: initial;
+    background-image: url(/img/eth-silver-back.png);
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-position-x: 74vw;
+    background-position-y: 36vh;
 }
 body > div {
     border-radius: 0;

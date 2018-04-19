@@ -1,9 +1,6 @@
-body {
-	background: initial;
-	background-image: url(/img/bg.jpg);
-	min-height: 100vh;
-}
+
 body > div {
+	background-color: initial;
 	max-width: 1200px;
 	min-width: initial;
 }
