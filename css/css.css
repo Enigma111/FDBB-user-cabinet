@@ -1,0 +1,23 @@
+body {
+	background: initial;
+	background-image: url(/img/bg.jpg);
+	min-height: 100vh;
+}
+body > div {
+	max-width: 1200px;
+	min-width: initial;
+}
+img {
+	max-width: 100%;
+}
+h1 {
+	text-align: left;
+	white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.sort-text {
+	white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
